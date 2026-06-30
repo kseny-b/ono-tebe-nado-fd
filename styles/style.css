@@ -68,29 +68,26 @@
   font-size: 100px;
   letter-spacing: 30%;
   width: 100%;
-  display: flex;
   z-index: 1;
+  margin: 156px 50px -9px;
+  line-height: 135px;
 }
 
 .aligned-text_left {
   display: block;
   text-align: left;
-  margin-top: 165px;
-  margin-left: 50px;
 }
 
 .aligned-text_center {
   display: block;
   text-align: center;
-  margin-top: 300px;
-  margin-left: 15px;
+  margin-left: -70px;
 }
 
 .aligned-text_right {
   display: block;
   text-align: right;
-  margin-top: 435px;
-  margin-left: -86px;
+  margin-right: 70px;
 }
 
 .cover__description {
